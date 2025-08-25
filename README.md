@@ -6,9 +6,6 @@ I'm a passionate developer who loves building and contributing to open source pr
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushtankha&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-## Contribution Graph
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayushtankha&theme=dark&hide_border=true)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtankha&layout=compact&theme=dark&hide_border=true&langs_count=5)
 
