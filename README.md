@@ -1,7 +1,7 @@
 # Hi there, I'm Ayush Tankha
 
 ## About Me
-I'm a passionate developer who loves building and contributing to open source projects.
+Staring out my open-source journey and some cool projects.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushtankha&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
